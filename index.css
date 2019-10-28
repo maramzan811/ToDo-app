@@ -28,10 +28,14 @@ body {
 }
 .tableDiv table {
    border: 1px solid lightblue;
+   margin: 0 auto;
 }
 
 .tableDiv table thead tr th {
    border: 1px solid lightgray;
    padding: 5px;
 }
-
+.tableDiv table tbody tr td {
+   border: 1px solid lightgray;
+   padding: 5px;
+}
